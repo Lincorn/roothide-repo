@@ -1,3 +1,21 @@
+Package: cctunneltap
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: fries
+Installed-Size: 148
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64e/cctunneltap_1.0.0_iphoneos-arm64e.deb
+Size: 25574
+MD5sum: 79320b29a0f0d8a98e368b7a54428954
+SHA1: 1e5e35530a673fb6a9e0dd191f25db88356bb9a1
+SHA256: 67915c039d19375fff64f4629a767638491d85a419c2a96b765b08a8661bafe5
+Section: Tweaks
+Description: CCTunnelTap
+Author: fries
+Icon: https://mieing.github.io/icon/CCTunnelTap.png
+Name: CCTunnelTap
+Sileodepiction: https://mieing.github.io/JSON/CCTunnelTap.json
+
 Package: cn.bswbw.fixsets
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -352,6 +370,22 @@ Description: Snapper3 个人自用简体中文包(RootHide)，连同控制中心
 Author: 妖刀
 Name: Snapper3 简体中文包(RootHide)
 
+Package: com.huami.WCPulse
+Version: 1.3-6
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1608
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/WCPulse_1.3-6-arm64e.deb
+Size: 351388
+MD5sum: 9a59efc6cc74d62c263daccb3bf89b37
+SHA1: 5a10cea860b078ff977bd7fef00c532d40510349
+SHA256: 5166097ce5104835307d0ff6b0cf877136b9b8bec5a5efa76d23741b5fb70b32
+Section: Tweaks
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
 Package: com.huami.dyyy
 Version: 2.2-4
 Architecture: iphoneos-arm64e
@@ -369,6 +403,25 @@ Priority: optional
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2036
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/DYYY_2.2-8_01032350-arm64e.deb
+Size: 436034
+MD5sum: 8b358dba75abdef64cf8cd5c5f1b3a57
+SHA1: cc5727b70e66dc8443c382e2d65225342d0f661b
+SHA256: 0ff3d5c52cbc9f24213538aef127c2e6f3a4c0e6d90b4eaeb92b48c5fd3ceaec
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
 Package: com.jontelang.snapper3
@@ -928,6 +981,22 @@ Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.pn
 Name: DockX
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
+Package: com.xuegao.xxuegao
+Version: 1.1-6
+Architecture: iphoneos-arm64e
+Maintainer: xuegao
+Installed-Size: 3584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/小雪糕_1.1-6-arm64e.deb
+Size: 3006546
+MD5sum: d91171474a1fd32177fbfb24c09eb84f
+SHA1: ebcb9ee8c1496b5e0ead2797c71a3979c71070b2
+SHA256: 84ad88b44f01a3a1bc5b94ae1c48e34b506e387723905ccca0edce5aad7727f2
+Section: Tweaks
+Description: 全局隐藏底部标签栏，朋友圈双击点赞等实用功能
+Author: xuegao
+Name: 小雪糕
+
 Package: com.xybp888.callassist16.dopamine.roothide
 Version: 1.7.2
 Architecture: iphoneos-arm64e
@@ -1110,4 +1179,22 @@ Depiction: https://chariz.com/get/cephei
 Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
 Name: Cephei Tweak Support
 Support: https://hashbang.productions/support/
+
+Package: xiaoshutiao
+Version: 1.3-7-3
+Architecture: iphoneos-arm64e
+Maintainer: fries
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/xiaoshutiao_1.3-7-3_iphoneos-arm64e.deb
+Size: 56774
+MD5sum: 57a5004dccc907a2eebb1caba2d35c52
+SHA1: 8c5d5b800d13b2a058363e8753e69faa5bf19f03
+SHA256: d57fbd1301d522d0422cdf44d232aa5924dc616d818699214f84832d43a2dba6
+Section: Tweaks
+Description: 小薯条
+Author: fries
+Icon: https://mieing.github.io/icon/CydiaIcon.png
+Name: 小薯条
+Sileodepiction: https://mieing.github.io/JSON/xiaoshutiao.json
 
